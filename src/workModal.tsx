@@ -59,7 +59,7 @@ const WorkModal = (props: Props) => {
             </p>
           </div>
           {desc.map((line) => (
-            <p>{line}</p>
+            <p key={line.substring(0, 3)}>{line}</p>
           ))}
           <GridList cols={3}>
             {sampleImages.map((sampleImage) => (

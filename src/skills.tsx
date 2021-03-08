@@ -41,7 +41,7 @@ const Skills = () => {
         {list.map((item) => {
           const term = new Date().getFullYear() - item.from;
           return (
-            <ListItem className={classes.listItem}>
+            <ListItem key={item.name} className={classes.listItem}>
               <ListItemText>{item.name}</ListItemText>
               <ListItemText className={classes.end}>
                 {term} ~ {term + 1} year
