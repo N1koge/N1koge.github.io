@@ -47,7 +47,9 @@ const Profile = () => {
       <Divider className={classes.divider}></Divider>
       <div className={classes.desc}>
         {bio.desc.map((line) => (
-          <Typography variant="body2">{line}</Typography>
+          <Typography key={line.substring(0, 3)} variant="body2">
+            {line}
+          </Typography>
         ))}
       </div>
       <Divider className={classes.divider}></Divider>
