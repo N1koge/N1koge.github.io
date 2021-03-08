@@ -12,7 +12,7 @@ const Works = () => {
           const { src, title, simpleDesc, desc, sampleImages } = work;
 
           return (
-            <Grid item xs={12} sm={6} md={4}>
+            <Grid key={title} item xs={12} sm={6} md={4}>
               <WorkCard
                 src={src}
                 title={title}
