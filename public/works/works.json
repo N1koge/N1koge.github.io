@@ -1,0 +1,21 @@
+[
+  {
+    "src": "/images/works/stats-app/stats-app-portfolio.vercel.app_.png",
+    "title": "ゲーム攻略用-stats-app",
+    "simpleDesc": "ゲーム攻略用統計データ記録アプリケーション",
+    "desc": [
+      "ハマっているスマートフォンゲームの攻略のために、統計データの記録をしようという内輪での目的のために制作しているアプリケーション。",
+      "実際のアプリケーションは従量課金制のストレージを使用しているため、これは仮のデータを返すデモ用アプリ。"
+    ],
+    "sampleImages": [
+      {
+        "src": "/images/works/stats-app/stats-app-portfolio.vercel.app_(full hd)-crafts.png",
+        "title": "sample 01"
+      },
+      {
+        "src": "/images/works/stats-app/stats-app-portfolio.vercel.app_(full hd)-missions.png",
+        "title": "sample 02"
+      }
+    ]
+  }
+]

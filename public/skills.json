@@ -1,0 +1,60 @@
+{
+  "languages": [
+    {
+      "name": "C",
+      "from": 2017
+    },
+    {
+      "name": "C++",
+      "from": 2019
+    },
+    {
+      "name": "Ruby",
+      "from": 2019
+    },
+    {
+      "name": "JavaScript",
+      "from": 2018
+    },
+    {
+      "name": "Rust",
+      "from": 2021
+    },
+    {
+      "name": "Solidity",
+      "from": 2021
+    }
+  ],
+  "toolsAndFrameworks": [
+    {
+      "name": "Github",
+      "from": 2019
+    },
+    {
+      "name": "React",
+      "from": 2019
+    },
+    {
+      "name": "Next",
+      "from": 2021
+    },
+    {
+      "name": "Vue",
+      "from": 2021
+    }
+  ],
+  "others": [
+    {
+      "name": "English",
+      "from": 2020
+    },
+    {
+      "name": "Blockchain",
+      "from": 2021
+    },
+    {
+      "name": "Security",
+      "from": 2019
+    }
+  ]
+}
